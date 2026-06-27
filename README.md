@@ -32,7 +32,7 @@ https://nexaionline.in
 
 Get the complete source code, documentation, and future updates:
 
-Gumroad: https://your-gumroad-link
+Gumroad: https://your-gumroad-link](https://dipti55.gumroad.com/l/kkmhyv
 
 Payhip: https://your-payhip-link
 
