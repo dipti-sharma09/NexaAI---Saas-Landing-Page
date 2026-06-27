@@ -24,9 +24,6 @@ Designed with a clean user interface, engaging animations, and conversion-focuse
 * Digital Agencies
 * Product Launch Pages
 
-## 🌐 Live Demo
-
-https://nexaionline.in
 
 ## 🛒 Purchase Source Code
 
@@ -34,7 +31,7 @@ Get the complete source code, documentation, and future updates:
 
 Gumroad: https://your-gumroad-link](https://dipti55.gumroad.com/l/kkmhyv
 
-Payhip: https://your-payhip-link
+Payhip: https://your-payhip-link](https://payhip.com/b/2AsCB
 
 ## 📸 Preview
 
